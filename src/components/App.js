@@ -11,7 +11,7 @@ class App extends React.Component {
 // This will display videos of children as our default search result on the 
 // before the user makes changes.
   componentDidMount(){
-    this.onTermSubmit('Children')
+    this.onTermSubmit('Ghana')
   }
 
   onTermSubmit = async (term) => {
