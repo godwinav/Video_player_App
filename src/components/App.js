@@ -42,7 +42,7 @@ class App extends React.Component {
 
        <div className= 'ui grid'>
          <div className='ui row'>
-           <div className ='ten wide column'>
+           <div className ='eleven wide column'>
         <VideoDetail video = {this.state.selectedVideo}/>
            </div>
 
